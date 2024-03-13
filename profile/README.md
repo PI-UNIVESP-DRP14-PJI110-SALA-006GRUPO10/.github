@@ -1,6 +1,6 @@
 # Projeto Integrador UNIVESP
 
-Welcome, this is an org to represent students from the fourth semester at UNIVESP. At this semester the integrative project (PI) is a survey to help early detection of Autism Spectrum Disorder (ASD).
+Welcome, this is an org to represent some students from the fourth semester at UNIVESP. At this semester the integrative project (PI) whe chose to do is a survey to help early detection of Autism Spectrum Disorder (ASD).
 <br>
 <br>
 <div align="center">
