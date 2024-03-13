@@ -5,7 +5,9 @@ Welcome, this is an org to represent students from the fourth semester at UNIVES
 <hr>
 <br>
 
-![UNIVESP](./logo-univesp_completo_cor-positivo.svg)
+<div align="center">
+    <img src="./logo-univesp_completo_cor-positivo.svg" alt="UNIVESP Logo">
+</div>
 
 <br>
 <hr>
