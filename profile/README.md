@@ -4,8 +4,9 @@ Welcome, this is an org to represent students from the fourth semester at UNIVES
 <br>
 <br>
 <div align="center">
-    <img src="../logo-univesp_completo_cor-positivo.svg" alt="UNIVESP Logo">
+    <img src="https://github.com/PI-UNIVESP-DRP14-PJI110-SALA-006GRUPO10/.github/blob/main/logo-univesp_completo_cor-positivo.svg" alt="UNIVESP Logo">
 </div>
+
 
 
 
