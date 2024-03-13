@@ -1,12 +1,10 @@
-## Hi there 👋
+# Projeto Integrador UNIVESP
 
-<!--
+Welcome, this is an org to represent students from the fourth semester at UNIVESP. At this semester the integrative project (PI) is a survey to help early detection of Autism Spectrum Disorder (ASD).
 
-**Here are some ideas to get you started:**
+![UNIVESP](https://www2.itanhaem.sp.gov.br/wp-content/uploads/2021/05/Univesp.jpg)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## About The Project
+
+Our main project is a Django-based web application designed to ask about some behavioral patterns and provide early indications of ASD.
+
